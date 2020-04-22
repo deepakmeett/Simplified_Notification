@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "17446818223",
+    "firebase_url": "https://simplenotify-997a3.firebaseio.com",
+    "project_id": "simplenotify-997a3",
+    "storage_bucket": "simplenotify-997a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17446818223:android:eebb9774e936fa7cec1f5a",
+        "android_client_info": {
+          "package_name": "com.example.simplifiednotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17446818223-b87udindeiaoj3tt20s5pute7leo3gfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simplifiednotification",
+            "certificate_hash": "5b4f3baf50f76cd762d6a7bbf2f05b3abbee7962"
+          }
+        },
+        {
+          "client_id": "17446818223-84c3iv76pjgce2ehjj8v8c7vdb8ef2vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gAdnJ2dLSO8xEmG9HFyWPWopw_lYorI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17446818223-84c3iv76pjgce2ehjj8v8c7vdb8ef2vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
